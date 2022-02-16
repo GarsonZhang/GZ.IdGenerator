@@ -184,7 +184,7 @@ namespace GZ.IdGenerator
             return;
 
             if (GenAction == null)
-            {
+            { 
                 return;
             }
 
