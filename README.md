@@ -2,7 +2,7 @@
 # 来自于项目：https://github.com/yitter/IdGenerator
 
 没有修改原来的代码，只是修改了项目名字(Nuget不能重名)
-添加了Nuget包的 .net4.5.2 
+# 添加了Nuget包的 .net framework平台的支持
 
 
 ![.net版本描述](https://github.com/GarsonZhang/GZ.IdGenerator/blob/master/imgs/p01.png?raw=true)
